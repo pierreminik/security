@@ -1,0 +1,18 @@
+# Canonical URI
+Canonical: https://pierreminik.com/security.txt
+
+# My security address
+Contact: mailto:security@pierreminik.com
+
+# My OpenPGP key
+Encryption: https://pierreminik.com/pgp-key.txt
+
+Preferred-Languages: en, da
+
+# My security policy
+Policy: https://pierreminik.com/disclosure-policy.txt
+
+# Acknowledgments will be posted here
+Acknowledgments: 
+
+Expires: 2023-12-31T23:59:59z

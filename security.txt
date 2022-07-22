@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+# Canonical URI
+Canonical: https://pierreminik.com/security.txt
+
+# My security address
+Contact: mailto:security@pierreminik.com
+
+# My OpenPGP key
+Encryption: https://pierreminik.com/pgp-key.txt
+
+Preferred-Languages: en, da
+
+# My security policy
+Policy: https://pierreminik.com/disclosure-policy.txt
+
+# Acknowledgments will be posted here
+Acknowledgments: 
+
+Expires: 2023-12-31T23:59:59z
+-----BEGIN PGP SIGNATURE-----
+
+iQJNBAEBCAA3FiEEMlVal8hqcyw2PHnvgxmLCK688cYFAmLbFoIZHHNlY3VyaXR5
+QHBpZXJyZW1pbmlrLmNvbQAKCRCDGYsIrrzxxsYREAC/wMjVlk4xNbK63T7r5po6
+wkdGiyfklXm2ssXEpv4mupM4ibgsANNiKCq1wttBowWXeGg5V6ZsBM7GK9HLO6s6
+qSy6ljw+cFBri9K9j3S7Zu3RkZtFSdOOhZqly2QaCaPCVDcyUR3Y8wWHWDcbravW
+wZwtTQuWXNnYDxTHlKwGNRXFPSeIj9UJElRbSMMbiSHJbxNujBzvhpQrvCH0YRBc
+f58MrFEF2f05GdCxnzSpS2MbHi+x+EsJ9spG6iDtHyke0rOdPl2QdzWf7OP7YMZd
++QJk3bQeoy4XCwoUt+3cXLrYCaCLH1blAwKBTkeJTDousvYmhLjHq+mDjtShvso6
+1FyBH1n5cO+ll8KtybmgJZfsyASiUAklVylmy8n70fyyXXX8YQIiCk6RRG2q9nyS
+6xOjABrr7FAANLCpCZj+9o9F5SezuL62AQxKR6upxwDfK0pA8nzdRlp+kgWFmYi5
+nOPXM1hut7Zdu0OfHJfWz+BiS2mptyj5zJk4e1itM0nEUsUVz73MNXCMrD73/aVi
+gIdP771ewch7OAqbnmutoyvN6TOsagTqyDlor4OPsud0bRY86GpWx/rLjUaAEpch
+Iql5DuJdj2v9BY0GaM04vADdn6GrOVna2dsWL5k0XD2GMStyVXaxJ29GqoYZUt8v
+xhsRcByfkyxC67NI4T7N1w==
+=rRaS
+-----END PGP SIGNATURE-----

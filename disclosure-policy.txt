@@ -1,0 +1,11 @@
+# Reporting a vulnerability
+
+If you have discovered something you believe to be a security vulnerability please reach out. My contact details are in the `/security.txt`. Please send the vulnerability details in a PGP-encrypted email.
+
+# Acknowledgments
+
+If you do not wish to receive public acknowledgment of this disclosure please note this in the email. Acknowledgments will be posted in the `/security.txt`-file.
+
+Thanks!
+
+- Pierre
