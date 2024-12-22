@@ -15,24 +15,26 @@ Preferred-Languages: en, da
 # My security policy
 Policy: https://pierreminik.com/disclosure-policy.txt
 
+# Well-known features of WordPress not considered a vulerability:
+Ignored: WordPress Username Enumeration, WordPress REST API User Enumeration
+
 # Acknowledgments will be posted here
 Acknowledgments: 
 
-Expires: 2023-12-31T23:59:59z
+Expires: 2025-12-31T23:59:59z
 -----BEGIN PGP SIGNATURE-----
 
-iQJNBAEBCAA3FiEEMlVal8hqcyw2PHnvgxmLCK688cYFAmLbFoIZHHNlY3VyaXR5
-QHBpZXJyZW1pbmlrLmNvbQAKCRCDGYsIrrzxxsYREAC/wMjVlk4xNbK63T7r5po6
-wkdGiyfklXm2ssXEpv4mupM4ibgsANNiKCq1wttBowWXeGg5V6ZsBM7GK9HLO6s6
-qSy6ljw+cFBri9K9j3S7Zu3RkZtFSdOOhZqly2QaCaPCVDcyUR3Y8wWHWDcbravW
-wZwtTQuWXNnYDxTHlKwGNRXFPSeIj9UJElRbSMMbiSHJbxNujBzvhpQrvCH0YRBc
-f58MrFEF2f05GdCxnzSpS2MbHi+x+EsJ9spG6iDtHyke0rOdPl2QdzWf7OP7YMZd
-+QJk3bQeoy4XCwoUt+3cXLrYCaCLH1blAwKBTkeJTDousvYmhLjHq+mDjtShvso6
-1FyBH1n5cO+ll8KtybmgJZfsyASiUAklVylmy8n70fyyXXX8YQIiCk6RRG2q9nyS
-6xOjABrr7FAANLCpCZj+9o9F5SezuL62AQxKR6upxwDfK0pA8nzdRlp+kgWFmYi5
-nOPXM1hut7Zdu0OfHJfWz+BiS2mptyj5zJk4e1itM0nEUsUVz73MNXCMrD73/aVi
-gIdP771ewch7OAqbnmutoyvN6TOsagTqyDlor4OPsud0bRY86GpWx/rLjUaAEpch
-Iql5DuJdj2v9BY0GaM04vADdn6GrOVna2dsWL5k0XD2GMStyVXaxJ29GqoYZUt8v
-xhsRcByfkyxC67NI4T7N1w==
-=rRaS
+iQIzBAEBCAAdFiEEYlRVzab2pG9lrru0XrOpLvZgYNgFAmdn6SEACgkQXrOpLvZg
+YNiK7Q//ZXoDugcuO/Xnvt59ULeWmd26ugiVcLSH12aDRXKMgvYn/DJMkiJUF+K9
+yVhNbJ9vz1DCZpWW+P9wYYT0FsK7ZuzEuciuJMelS1uauN3+GsYrba94RDLwknb6
+mpIEnMoizs8Ye2eZtaArutMwEU/onvXmfxwmy8rCV2mo2AxbB5wHwsZS+A+C34yp
+KKnsxB0QeEyYguuSHUg6WYLmDl+vVhp7hjQApmrUXEj504sL8Vw7lCqKW9fCmO6X
+uHaSf12uYggB4RhjQSF17P96l2w8E/JmxAGBG0et3PGH72pSaqmbuOMnm2fK8hEY
+Yj9khnFkVqMeQW3zhDbD8MF/b5VxGBROI1dnwZxzInDrLVEJw+O5qcZxKYg37cJK
+XrFereKa1Sm/2fVoQs/SzCHhipmS2nbsjhHtXMTeXVLv87AdV/by2nwBb5bMq46I
+sy58d/1t6yKA4rxaSAa8xaMZT8NfOaHCBQOGRXq/2j0Rw2J0e66CXwh9bVa9eBDx
+5dfdh57DWLLaBmvL0dlGMaahkHv+ivZF6ZmMtJRpJeUySZFejVK8rZ4fm1/KnMYN
+JqHKt2fStI/Q9WTRllbiT3r0G2XBobk3q+fLYZ+11wEbcy5bLjBnW3/Nz4PJMPKS
+eiHjP3y90a8j5NbDp0SprSatN/O6cRmELfdEEefppCMW30V9ThA=
+=XBS5
 -----END PGP SIGNATURE-----

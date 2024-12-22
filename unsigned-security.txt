@@ -12,7 +12,10 @@ Preferred-Languages: en, da
 # My security policy
 Policy: https://pierreminik.com/disclosure-policy.txt
 
+# Well-known features of WordPress not considered a vulerability:
+Ignored: WordPress Username Enumeration, WordPress REST API User Enumeration
+
 # Acknowledgments will be posted here
 Acknowledgments: 
 
-Expires: 2023-12-31T23:59:59z
+Expires: 2025-12-31T23:59:59z
